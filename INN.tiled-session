@@ -1,8 +1,13 @@
 {
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
     "activeFile": "",
     "expandedProjectPaths": [
         "."
     ],
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "map.json#floortileset": {
             "scaleInDock": 1
@@ -11,10 +16,15 @@
             "scaleInDock": 1
         }
     },
+    "map.height": 20,
+    "map.lastUsedFormat": "json",
+    "map.width": 20,
     "openFiles": [
     ],
     "project": "INN.tiled-project",
     "recentFiles": [
+        "lobby.json",
         "map.json"
-    ]
+    ],
+    "tileset.embedInMap": true
 }
