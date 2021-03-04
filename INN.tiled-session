@@ -11,10 +11,10 @@
     "fileStates": {
         "accueil.json": {
             "scale": 1.6565625,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 287.94567062818334,
-                "y": 321.44878324844365
+                "x": 287.3420109413318,
+                "y": 320.8451235615921
             }
         },
         "accueil.json#floortileset": {
@@ -36,7 +36,7 @@
         },
         "map.json": {
             "scale": 0.75,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 756,
                 "y": 520.6666666666665
@@ -53,8 +53,11 @@
             "selectedLayer": 1,
             "viewCenter": {
                 "x": 308.47009998113566,
-                "y": 308.1682701377099
+                "y": 307.56461045085837
             }
+        },
+        "toto.json#floortileset": {
+            "scaleInDock": 1
         }
     },
     "map.height": 20,
@@ -66,9 +69,10 @@
         "accueil.json"
     ],
     "project": "INN.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
-        "map.json",
         "lobby.json",
+        "map.json",
         "accueil.json"
     ],
     "tileset.embedInMap": true
