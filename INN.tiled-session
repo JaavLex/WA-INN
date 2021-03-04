@@ -13,7 +13,7 @@
             "scale": 1.6565625,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 288.5493303150349,
+                "x": 287.94567062818334,
                 "y": 321.44878324844365
             }
         },
@@ -25,7 +25,7 @@
         },
         "lobby.json": {
             "scale": 0.7476,
-            "selectedLayer": 3,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 371.856607811664,
                 "y": 384.5639379347244
@@ -47,6 +47,14 @@
         },
         "map.json#office_1": {
             "scaleInDock": 1
+        },
+        "toto.json": {
+            "scale": 1.6565625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 308.47009998113566,
+                "y": 308.1682701377099
+            }
         }
     },
     "map.height": 20,
