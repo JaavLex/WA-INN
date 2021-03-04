@@ -11,7 +11,7 @@
     "fileStates": {
         "lobby.json": {
             "scale": 0.7476,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 371.856607811664,
                 "y": 384.5639379347244
@@ -22,7 +22,7 @@
         },
         "map.json": {
             "scale": 0.75,
-            "selectedLayer": 3,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 758.6666666666665,
                 "y": 523.3333333333334
