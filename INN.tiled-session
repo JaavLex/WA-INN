@@ -9,6 +9,17 @@
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "accueil.json": {
+            "scale": 1.6565625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.54329371816635,
+                "y": 320.24146387474065
+            }
+        },
+        "accueil.json#floortileset": {
+            "scaleInDock": 1
+        },
         "lobby.json": {
             "scale": 0.7476,
             "selectedLayer": 3,
@@ -24,8 +35,8 @@
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 758.6666666666665,
-                "y": 523.3333333333334
+                "x": 757.3333333333334,
+                "y": 520.6666666666665
             }
         },
         "map.json#floortileset": {
