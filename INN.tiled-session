@@ -11,21 +11,21 @@
     "fileStates": {
         "lobby.json": {
             "scale": 0.7476,
-            "selectedLayer": 4,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 371.856607811664,
-                "y": 383.2263242375602
+                "y": 384.5639379347244
             }
         },
         "lobby.json#floortileset": {
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 0.3962635869565217,
-            "selectedLayer": 0,
+            "scale": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 736.8832504714555,
-                "y": 546.3535059146238
+                "x": 738,
+                "y": 542.5
             }
         },
         "map.json#floortileset": {
