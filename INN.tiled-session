@@ -9,6 +9,25 @@
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "lobby.json": {
+            "scale": 0.7476,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 371.856607811664,
+                "y": 383.2263242375602
+            }
+        },
+        "lobby.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "map.json": {
+            "scale": 0.3962635869565217,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 736.8832504714555,
+                "y": 546.3535059146238
+            }
+        },
         "map.json#floortileset": {
             "scaleInDock": 1
         },
