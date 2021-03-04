@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json"
+                 "value":"..\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"floortileset.png",
+         "image":"..\/tiles_png\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,

@@ -43,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/inn0.json"
+                 "value":".\/maps\/inn0.json"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/toto.json"
+                 "value":".\/maps\/lobby.json"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -102,7 +102,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"tiles_png\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -827,7 +827,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"tiles_png\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
