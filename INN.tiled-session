@@ -21,11 +21,11 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 1,
-            "selectedLayer": 2,
+            "scale": 0.75,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 738,
-                "y": 542.5
+                "x": 758.6666666666665,
+                "y": 523.3333333333334
             }
         },
         "map.json#floortileset": {
@@ -42,8 +42,8 @@
     ],
     "project": "INN.tiled-project",
     "recentFiles": [
-        "lobby.json",
-        "map.json"
+        "map.json",
+        "lobby.json"
     ],
     "tileset.embedInMap": true
 }
