@@ -28,7 +28,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -43,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.world.fixme.ch\/_\/global\/maps.world.fixme.ch\/fixme\/scitas.json#start\n"
+                 "value":"https:\/\/play.world.fixme.ch\/_\/global\/maps.world.fixme.ch\/fixme\/scitas.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -76,7 +76,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -87,7 +87,7 @@
          "name":"walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
