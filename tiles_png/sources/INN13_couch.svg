@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="128"
+   viewBox="0 0 16.933333 33.866666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="INN13_couch.svg"
+   inkscape:export-filename="/home/nborboen/Desktop/INN13_couch.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title3873">EPFL INN Labels</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2533">
+      <stop
+         style="stop-color:#dde9af;stop-opacity:1;"
+         offset="0"
+         id="stop2529" />
+      <stop
+         style="stop-color:#dde9af;stop-opacity:0;"
+         offset="1"
+         id="stop2531" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2519"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#dde9af;stop-opacity:1;"
+         offset="0"
+         id="stop2517" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient2535"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient2729"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="-5.783565"
+     inkscape:cy="27.705367"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="2515"
+     inkscape:window-height="1376"
+     inkscape:window-x="45"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815"
+       spacingx="8.4666667"
+       spacingy="8.4666667" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>EPFL INN Labels</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Nicolas Borboën</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-263.13338)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="25.4"
+       y="220.80003"
+       id="text3664"><tspan
+         sodipodi:role="line"
+         id="tspan3662"
+         x="25.4"
+         y="230.1638"
+         style="stroke-width:0.26458332" /></text>
+    <image
+       y="-296.1666"
+       x="-16.727324"
+       id="image1029"
+       xlink:href="data:image/png;base64,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 "
+       preserveAspectRatio="none"
+       height="32.199791"
+       width="15.088802"
+       transform="scale(-1)" />
+  </g>
+</svg>
