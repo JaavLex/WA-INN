@@ -1,0 +1,1372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="160"
+   viewBox="0 0 50.799999 42.333333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="DoorLabel.svg"
+   inkscape:export-filename="/home/nborboen/Desktop/INN_Doors_Labels.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title3873">EPFL INN Labels</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2533">
+      <stop
+         style="stop-color:#dde9af;stop-opacity:1;"
+         offset="0"
+         id="stop2529" />
+      <stop
+         style="stop-color:#dde9af;stop-opacity:0;"
+         offset="1"
+         id="stop2531" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2519"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#dde9af;stop-opacity:1;"
+         offset="0"
+         id="stop2517" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient2535"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient2627"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436"
+       gradientTransform="translate(8.5021887,3.230217e-4)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient2729"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient2735"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient2814"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient2816"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient2951"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient2953"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient2955"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient2957"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3052"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3054"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3056"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3371"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3373"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3375"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3377"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3379"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3381"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3383"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3385"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3387"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3389"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3391"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3460"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3462"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3644"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3646"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3648"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3650"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3652"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(33.902121,33.867016)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2533"
+       id="linearGradient3654"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.5021887,3.230217e-4)"
+       x1="0"
+       y1="178.46671"
+       x2="5.695416"
+       y2="172.65436" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="145.25151"
+     inkscape:cy="96.214392"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="2515"
+     inkscape:window-height="1376"
+     inkscape:window-x="45"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815"
+       spacingx="8.4666667"
+       spacingy="8.4666667" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>EPFL INN Labels</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Nicolas Borboën</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-254.66671)">
+    <g
+       id="g3850"
+       transform="translate(-4.6685959e-4,84.655443)">
+      <g
+         id="g2745">
+        <rect
+           style="fill:url(#linearGradient2735);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect238"
+           width="7.9214034"
+           height="7.9214034"
+           x="0.25533164"
+           y="170.28372"
+           ry="1.976124"
+           rx="0.81851298" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="4.1207805"
+           y="174.21074"
+           id="text222"><tspan
+             sodipodi:role="line"
+             x="4.1207805"
+             y="174.21074"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan232">INN</tspan><tspan
+             sodipodi:role="line"
+             x="4.1207805"
+             y="177.01285"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan236">021</tspan></text>
+      </g>
+      <g
+         id="g2751">
+        <rect
+           style="fill:url(#linearGradient2627);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect238-2"
+           width="7.9214034"
+           height="7.9214034"
+           x="8.7575207"
+           y="170.28404"
+           ry="1.976124"
+           rx="0.81851298" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="12.62297"
+           y="174.21106"
+           id="text222-9"><tspan
+             sodipodi:role="line"
+             x="12.62297"
+             y="174.21106"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan232-0">INN</tspan><tspan
+             sodipodi:role="line"
+             x="12.62297"
+             y="177.01317"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan236-5">020</tspan></text>
+      </g>
+      <g
+         id="g2823">
+        <g
+           transform="translate(16.933338)"
+           id="g2745-5">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28372"
+             x="0.25533164"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-5"
+             style="fill:url(#linearGradient2814);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-2"
+             y="174.21074"
+             x="4.1207805"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21074"
+               x="4.1207805"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-59"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01285"
+               x="4.1207805"
+               sodipodi:role="line">019</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2830">
+        <g
+           transform="translate(16.933338)"
+           id="g2751-9">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28404"
+             x="8.7575207"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-2-1"
+             style="fill:url(#linearGradient2816);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-9-6"
+             y="174.21106"
+             x="12.62297"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-0-2"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21106"
+               x="12.62297"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-5-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01317"
+               x="12.62297"
+               sodipodi:role="line">018</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2745-1"
+         transform="translate(33.866686)">
+        <rect
+           style="fill:url(#linearGradient2951);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect238-9"
+           width="7.9214034"
+           height="7.9214034"
+           x="0.25533164"
+           y="170.28372"
+           ry="1.976124"
+           rx="0.81851298" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="4.1207805"
+           y="174.21074"
+           id="text222-7"><tspan
+             sodipodi:role="line"
+             x="4.1207805"
+             y="174.21074"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan232-6">INN</tspan><tspan
+             sodipodi:role="line"
+             x="4.1207805"
+             y="177.01285"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan236-8">017</tspan></text>
+      </g>
+      <g
+         id="g2751-2"
+         transform="translate(33.866686)">
+        <rect
+           style="fill:url(#linearGradient2953);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect238-2-0"
+           width="7.9214034"
+           height="7.9214034"
+           x="8.7575207"
+           y="170.28404"
+           ry="1.976124"
+           rx="0.81851298" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="12.62297"
+           y="174.21106"
+           id="text222-9-64"><tspan
+             sodipodi:role="line"
+             x="12.62297"
+             y="174.21106"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan232-0-3">INN</tspan><tspan
+             sodipodi:role="line"
+             x="12.62297"
+             y="177.01317"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan236-5-3">016</tspan></text>
+      </g>
+      <g
+         id="g2823-6"
+         transform="translate(-16.933327,8.4666669)">
+        <g
+           transform="translate(16.933338)"
+           id="g2745-5-9">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28372"
+             x="0.25533164"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-5-0"
+             style="fill:url(#linearGradient2955);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-2-4"
+             y="174.21074"
+             x="4.1207805"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-1-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21074"
+               x="4.1207805"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-59-5"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01285"
+               x="4.1207805"
+               sodipodi:role="line">015</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2830-1"
+         transform="translate(-16.933327,8.4666669)">
+        <g
+           transform="translate(16.933338)"
+           id="g2751-9-2">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28404"
+             x="8.7575207"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-2-1-9"
+             style="fill:url(#linearGradient2957);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-9-6-7"
+             y="174.21106"
+             x="12.62297"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-0-2-3"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21106"
+               x="12.62297"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-5-1-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01317"
+               x="12.62297"
+               sodipodi:role="line">014</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2751-2-7"
+         transform="translate(8.4666939,8.4666669)">
+        <rect
+           style="fill:url(#linearGradient3052);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect238-2-0-4"
+           width="7.9214034"
+           height="7.9214034"
+           x="8.7575207"
+           y="170.28404"
+           ry="1.976124"
+           rx="0.81851298" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="12.62297"
+           y="174.21106"
+           id="text222-9-64-1"><tspan
+             sodipodi:role="line"
+             x="12.62297"
+             y="174.21106"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan232-0-3-6">INN</tspan><tspan
+             sodipodi:role="line"
+             x="12.62297"
+             y="177.01317"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan236-5-3-3">013</tspan></text>
+      </g>
+      <g
+         id="g2823-6-8"
+         transform="translate(8.4666939,8.4666669)">
+        <g
+           transform="translate(16.933338)"
+           id="g2745-5-9-5">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28372"
+             x="0.25533164"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-5-0-5"
+             style="fill:url(#linearGradient3054);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-2-4-0"
+             y="174.21074"
+             x="4.1207805"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-1-8-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21074"
+               x="4.1207805"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-59-5-2"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01285"
+               x="4.1207805"
+               sodipodi:role="line">012</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2830-1-6"
+         transform="translate(8.4666939,8.4666669)">
+        <g
+           transform="translate(16.933338)"
+           id="g2751-9-2-4">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28404"
+             x="8.7575207"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-2-1-9-8"
+             style="fill:url(#linearGradient3056);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-9-6-7-5"
+             y="174.21106"
+             x="12.62297"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-0-2-3-6"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21106"
+               x="12.62297"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-5-1-8-2"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01317"
+               x="12.62297"
+               sodipodi:role="line">011</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2745-52"
+         transform="translate(-2.6236667e-5,16.933344)">
+        <rect
+           style="fill:url(#linearGradient3371);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect238-6"
+           width="7.9214034"
+           height="7.9214034"
+           x="0.25533164"
+           y="170.28372"
+           ry="1.976124"
+           rx="0.81851298" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="4.1207805"
+           y="174.21074"
+           id="text222-94"><tspan
+             sodipodi:role="line"
+             x="4.1207805"
+             y="174.21074"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan232-4">INN</tspan><tspan
+             sodipodi:role="line"
+             x="4.1207805"
+             y="177.01285"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan236-6">027</tspan></text>
+      </g>
+      <g
+         id="g2751-0"
+         transform="translate(-2.6236667e-5,16.933344)">
+        <rect
+           style="fill:url(#linearGradient3373);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect238-2-7"
+           width="7.9214034"
+           height="7.9214034"
+           x="8.7575207"
+           y="170.28404"
+           ry="1.976124"
+           rx="0.81851298" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="12.62297"
+           y="174.21106"
+           id="text222-9-4"><tspan
+             sodipodi:role="line"
+             x="12.62297"
+             y="174.21106"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan232-0-37">INN</tspan><tspan
+             sodipodi:role="line"
+             x="12.62297"
+             y="177.01317"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan236-5-9">028</tspan></text>
+      </g>
+      <g
+         id="g2823-0"
+         transform="translate(-2.6236667e-5,16.933344)">
+        <g
+           transform="translate(16.933338)"
+           id="g2745-5-0">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28372"
+             x="0.25533164"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-5-2"
+             style="fill:url(#linearGradient3375);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-2-2"
+             y="174.21074"
+             x="4.1207805"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-1-6"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21074"
+               x="4.1207805"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-59-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01285"
+               x="4.1207805"
+               sodipodi:role="line">029</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2830-0"
+         transform="translate(-2.6236667e-5,16.933344)">
+        <g
+           transform="translate(16.933338)"
+           id="g2751-9-3">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28404"
+             x="8.7575207"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-2-1-5"
+             style="fill:url(#linearGradient3377);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-9-6-5"
+             y="174.21106"
+             x="12.62297"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-0-2-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21106"
+               x="12.62297"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-5-1-7"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01317"
+               x="12.62297"
+               sodipodi:role="line">032</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2745-1-1"
+         transform="translate(33.866653,16.933344)">
+        <rect
+           style="fill:url(#linearGradient3379);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect238-9-7"
+           width="7.9214034"
+           height="7.9214034"
+           x="0.25533164"
+           y="170.28372"
+           ry="1.976124"
+           rx="0.81851298" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="4.1207805"
+           y="174.21074"
+           id="text222-7-0"><tspan
+             sodipodi:role="line"
+             x="4.1207805"
+             y="174.21074"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan232-6-6">INN</tspan><tspan
+             sodipodi:role="line"
+             x="4.1207805"
+             y="177.01285"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan236-8-0">033</tspan></text>
+      </g>
+      <g
+         id="g2751-2-4"
+         transform="translate(33.866653,16.933344)">
+        <rect
+           style="fill:url(#linearGradient3381);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect238-2-0-1"
+           width="7.9214034"
+           height="7.9214034"
+           x="8.7575207"
+           y="170.28404"
+           ry="1.976124"
+           rx="0.81851298" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="12.62297"
+           y="174.21106"
+           id="text222-9-64-3"><tspan
+             sodipodi:role="line"
+             x="12.62297"
+             y="174.21106"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan232-0-3-0">INN</tspan><tspan
+             sodipodi:role="line"
+             x="12.62297"
+             y="177.01317"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan236-5-3-2">034</tspan></text>
+      </g>
+      <g
+         id="g2823-6-9"
+         transform="translate(-16.933367,25.400016)">
+        <g
+           transform="translate(16.933338)"
+           id="g2745-5-9-6">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28372"
+             x="0.25533164"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-5-0-0"
+             style="fill:url(#linearGradient3383);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-2-4-9"
+             y="174.21074"
+             x="4.1207805"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-1-8-3"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21074"
+               x="4.1207805"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-59-5-5"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01285"
+               x="4.1207805"
+               sodipodi:role="line">035</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2830-1-4"
+         transform="translate(-16.933367,25.400016)">
+        <g
+           transform="translate(16.933338)"
+           id="g2751-9-2-3">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28404"
+             x="8.7575207"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-2-1-9-6"
+             style="fill:url(#linearGradient3385);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-9-6-7-4"
+             y="174.21106"
+             x="12.62297"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-0-2-3-3"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21106"
+               x="12.62297"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-5-1-8-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01317"
+               x="12.62297"
+               sodipodi:role="line">036</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2751-2-7-9"
+         transform="translate(8.4665899,25.400016)">
+        <rect
+           style="fill:url(#linearGradient3387);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect238-2-0-4-1"
+           width="7.9214034"
+           height="7.9214034"
+           x="8.7575207"
+           y="170.28404"
+           ry="1.976124"
+           rx="0.81851298" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="12.62297"
+           y="174.21106"
+           id="text222-9-64-1-0"><tspan
+             sodipodi:role="line"
+             x="12.62297"
+             y="174.21106"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan232-0-3-6-9">INN</tspan><tspan
+             sodipodi:role="line"
+             x="12.62297"
+             y="177.01317"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan236-5-3-3-4">037</tspan></text>
+      </g>
+      <g
+         id="g2823-6-8-5"
+         transform="translate(8.4665899,25.400016)">
+        <g
+           transform="translate(16.933338)"
+           id="g2745-5-9-5-6">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28372"
+             x="0.25533164"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-5-0-5-2"
+             style="fill:url(#linearGradient3389);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-2-4-0-5"
+             y="174.21074"
+             x="4.1207805"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-1-8-1-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21074"
+               x="4.1207805"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-59-5-2-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01285"
+               x="4.1207805"
+               sodipodi:role="line">039</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2830-1-6-7"
+         transform="translate(8.4665899,25.400016)">
+        <g
+           transform="translate(16.933338)"
+           id="g2751-9-2-4-7">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28404"
+             x="8.7575207"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-2-1-9-8-4"
+             style="fill:url(#linearGradient3391);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-9-6-7-5-1"
+             y="174.21106"
+             x="12.62297"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-0-2-3-6-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21106"
+               x="12.62297"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-5-1-8-2-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01317"
+               x="12.62297"
+               sodipodi:role="line">040</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2830-1-6-8"
+         transform="translate(16.933369,8.4666669)">
+        <g
+           transform="translate(16.933338)"
+           id="g2751-9-2-4-74">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28404"
+             x="8.7575207"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-2-1-9-8-9"
+             style="fill:url(#linearGradient3460);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-9-6-7-5-3"
+             y="174.21106"
+             x="12.62297"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-0-2-3-6-13"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21106"
+               x="12.62297"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-5-1-8-2-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01317"
+               x="12.62297"
+               sodipodi:role="line">HAL</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2830-1-6-7-7"
+         transform="translate(16.933266,25.400016)">
+        <g
+           transform="translate(16.933338)"
+           id="g2751-9-2-4-7-9">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28404"
+             x="8.7575207"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-2-1-9-8-4-3"
+             style="fill:url(#linearGradient3462);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-9-6-7-5-1-8"
+             y="174.21106"
+             x="12.62297"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-0-2-3-6-1-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21106"
+               x="12.62297"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-5-1-8-2-9-4"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01317"
+               x="12.62297"
+               sodipodi:role="line">041</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2823-6-9-2"
+         transform="translate(-16.933357,33.866693)">
+        <g
+           transform="translate(16.933338)"
+           id="g2745-5-9-6-3">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28372"
+             x="0.25533164"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-5-0-0-8"
+             style="fill:url(#linearGradient3644);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-2-4-9-5"
+             y="174.21074"
+             x="4.1207805"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-1-8-3-0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21074"
+               x="4.1207805"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-59-5-5-5"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01285"
+               x="4.1207805"
+               sodipodi:role="line">EXT</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2830-1-4-9"
+         transform="translate(-16.933357,33.866693)">
+        <g
+           transform="translate(16.933338)"
+           id="g2751-9-2-3-2">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28404"
+             x="8.7575207"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-2-1-9-6-6"
+             style="fill:url(#linearGradient3646);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-9-6-7-4-8"
+             y="174.21106"
+             x="12.62297"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-0-2-3-3-5"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21106"
+               x="12.62297"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-5-1-8-1-2"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01317"
+               x="12.62297"
+               sodipodi:role="line">→</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2751-2-7-9-8"
+         transform="translate(8.466594,33.866693)">
+        <rect
+           style="fill:url(#linearGradient3648);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect238-2-0-4-1-3"
+           width="7.9214034"
+           height="7.9214034"
+           x="8.7575207"
+           y="170.28404"
+           ry="1.976124"
+           rx="0.81851298" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="12.62297"
+           y="174.21106"
+           id="text222-9-64-1-0-6"><tspan
+             sodipodi:role="line"
+             x="12.62297"
+             y="174.21106"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan232-0-3-6-9-7">INN</tspan><tspan
+             sodipodi:role="line"
+             x="12.62297"
+             y="177.01317"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan236-5-3-3-4-8">←</tspan></text>
+      </g>
+      <g
+         id="g2823-6-8-5-7"
+         transform="translate(8.466594,33.866693)">
+        <g
+           transform="translate(16.933338)"
+           id="g2745-5-9-5-6-2">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28372"
+             x="0.25533164"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-5-0-5-2-6"
+             style="fill:url(#linearGradient3650);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-2-4-0-5-6"
+             y="174.21074"
+             x="4.1207805"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-1-8-1-9-2"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21074"
+               x="4.1207805"
+               sodipodi:role="line">INN</tspan><tspan
+               id="tspan236-59-5-2-1-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01285"
+               x="4.1207805"
+               sodipodi:role="line">000</tspan></text>
+        </g>
+      </g>
+      <rect
+         rx="0.81851298"
+         ry="1.976124"
+         y="204.15074"
+         x="34.157452"
+         height="7.9214034"
+         width="7.9214034"
+         id="rect238-2-1-9-8-4-7"
+         style="fill:url(#linearGradient3652);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text222-9-6-7-5-1-2"
+         y="209.4767"
+         x="37.771019"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan3670"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="209.4767"
+           x="37.771019"
+           sodipodi:role="line">INN</tspan><tspan
+           id="tspan236-5-1-8-2-9-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="212.27881"
+           x="37.771019"
+           sodipodi:role="line" /></text>
+      <g
+         id="g2830-1-6-7-7-1"
+         transform="translate(16.93327,33.866693)">
+        <g
+           transform="translate(16.933338)"
+           id="g2751-9-2-4-7-9-7">
+          <rect
+             rx="0.81851298"
+             ry="1.976124"
+             y="170.28404"
+             x="8.7575207"
+             height="7.9214034"
+             width="7.9214034"
+             id="rect238-2-1-9-8-4-3-8"
+             style="fill:url(#linearGradient3654);fill-opacity:1;stroke:#000000;stroke-width:0.28099999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text222-9-6-7-5-1-8-9"
+             y="174.21106"
+             x="12.62297"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.32291663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan232-0-2-3-6-1-8-4"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="174.21106"
+               x="13.664367"
+               sodipodi:role="line">   </tspan><tspan
+               id="tspan236-5-1-8-2-9-4-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.32291663px;font-family:'3270SemiNarrow Nerd Font Mono';-inkscape-font-specification:'3270SemiNarrow Nerd Font Mono';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+               y="177.01317"
+               x="13.664367"
+               sodipodi:role="line">   </tspan></text>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="25.4"
+       y="220.80003"
+       id="text3664"><tspan
+         sodipodi:role="line"
+         id="tspan3662"
+         x="25.4"
+         y="230.1638"
+         style="stroke-width:0.26458332" /></text>
+  </g>
+</svg>
