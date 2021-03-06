@@ -175,7 +175,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json"
+                 "value":".\/inn1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
