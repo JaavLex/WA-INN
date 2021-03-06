@@ -70,11 +70,9 @@
          "y":0
         }, 
         {
-         "id":17,
-         "image":"tiles_png\/EPFL_oveview.png",
-         "name":"EPFL",
-         "offsetx":3.10655483069263,
-         "offsety":1.13686837721616e-13,
+         "id":20,
+         "image":"tiles_png\/EPFL_overview.png",
+         "name":"EPFL_overview",
          "opacity":1,
          "type":"imagelayer",
          "visible":true,
@@ -100,11 +98,11 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
- "nextlayerid":19,
+ "nextlayerid":21,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
